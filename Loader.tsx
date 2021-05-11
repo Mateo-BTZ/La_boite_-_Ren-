@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { StyleSheet, View, ActivityIndicator, ImageLoadEventDataAndroid } from 'react-native';
+import { StyleSheet, View, ActivityIndicator, } from 'react-native';
 
 class Loader extends Component {
     state = { animating: true }
